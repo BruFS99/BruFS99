@@ -1,6 +1,6 @@
 # Hello, my name is Bruna!
 
-![](https://octodex.github.com/images/NUX_Octodex.gif)
+![](https://github.com/BruFS99/BruFS99/blob/main/tumblr_c50477fd60a0990137a9ae68d1c1756c_9224d142_500.gif)
 
 ## Welcome to my GitHub profile 👋
 
