@@ -1,5 +1,5 @@
-# Olá, me chamo Bruna ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Hello, my name is Bruna!
+## Welcome to my GitHub profile 👋
 
 ## 🔭 My skills
 
