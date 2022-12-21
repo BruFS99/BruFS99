@@ -1,4 +1,7 @@
 # Hello, my name is Bruna!
+
+![](https://octodex.github.com/images/NUX_Octodex.gif)
+
 ## Welcome to my GitHub profile 👋
 
 ## 🔭 My skills
