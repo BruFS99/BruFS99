@@ -71,7 +71,7 @@ Tenho 23 anos, moro em Arujá/SP e sou iniciante na carreira de Quality Assurenc
 <img width="170" height="414" align="left" src="https://github.com/BruFS99/BruFS99/blob/main/avatar3.png">
 
  <div display="inline-block" align="center">
-  <h2> Fatos sobre min</h2>
+  <h2> Fatos sobre mim</h2>
 Gosto de livros, cinema, museu, teatro e feiras Geek. Amiga dos felinos :cat: e da casa Corvinal :jack_o_lantern:.
 <br>
 PS: Não adianta funcionar só na sua maquina.
