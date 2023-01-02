@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/bruhf99/">
     <img width="80px" src="https://github.com/BruFS99/BruFS99/blob/main/icons8-linkedin-480.png" style="vertical-align:top;">
   </a>
+   <a href="https://qabrunafernandes.netlify.app/">
+    <img width="80px" src="https://github.com/BruFS99/BruFS99/blob/main/antivirus.png" style="vertical-align:top;">
+  </a> 
 </div> 
 
 <br>
