@@ -28,7 +28,7 @@
 <div display="inline-block" align="center">
 <h2>Welcome to my GitHub profile :smiley:</h2> 
 
-Tenho 23 anos, moro em Arujá/SP e sou iniciante na carreira de Quality Assurence :mag: :beetle:
+Tenho 23 anos, moro em Arujá/SP e sou iniciante na carreira de Quality Assurance :mag: :beetle:
 
 
 </div> 
