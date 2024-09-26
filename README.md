@@ -1,11 +1,10 @@
 
 <hr>
-<img src="https://github.com/BruFS99/BruFS99/blob/0c98093d5a3e2c42656b01c48c1e6d7544157c91/octocat-1727356638326.png" align="left" width="400" height="400"/>
-
-<div align="center" display="inline-block">
- 
- <h1>Bruna Fernandes</h1>
  <br>
+<img src="https://github.com/BruFS99/BruFS99/blob/0c98093d5a3e2c42656b01c48c1e6d7544157c91/octocat-1727356638326.png" align="left" width="400" height="400"/>
+<div align="center" display="inline-block">
+ <h1>Bruna Fernandes</h1>
+
  <br>
  <a href="https://www.instagram.com/brufernandes_99/">
     <img width="80px" src="https://github.com/BruFS99/BruFS99/blob/main/icons8-instagram-3000.png" style="vertical-align:top;">
