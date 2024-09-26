@@ -1,10 +1,10 @@
 
 <hr>
-<img src="https://github.com/BruFS99/BruFS99/blob/main/avatar1.png" align="left" width="160" height="379"/>
+<img src="https://github.com/BruFS99/BruFS99/blob/main/avatar1.png](https://github.com/BruFS99/BruFS99/blob/main/octocat-1727356638326.png" align="left" width="160" height="379"/>
 
 <div align="center" display="inline-block">
  
- <h1>Bruna Fernandes :hibiscus:</h1>
+ <h1>Bruna Fernandes</h1>
  <br>
  <br>
  <a href="https://www.instagram.com/brufernandes_99/">
@@ -57,14 +57,6 @@ Tenho 23 anos, moro em Arujá/SP e sou iniciante na carreira de Quality Assuranc
  <br>
  <br>
  <br>
- 
- <div display="inline-block" align="center">
-  <h2>:books: Estou aprendendo</h2>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40" height="40" /></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></code>
-</div>
 
  <br>
  <br>
