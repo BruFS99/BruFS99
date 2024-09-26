@@ -1,6 +1,6 @@
 
 <hr>
-<img src="https://github.com/BruFS99/BruFS99/blob/0c98093d5a3e2c42656b01c48c1e6d7544157c91/octocat-1727356638326.png" align="left" width="160" height="379"/>
+<img src="https://github.com/BruFS99/BruFS99/blob/0c98093d5a3e2c42656b01c48c1e6d7544157c91/octocat-1727356638326.png" align="left" width="200" height="200"/>
 
 <div align="center" display="inline-block">
  
